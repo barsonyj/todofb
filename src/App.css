@@ -1,0 +1,7 @@
+h2 {
+  margin: auto;
+  display: flex;
+  max-width: 300px;
+  justify-content: space-between;
+  
+}
